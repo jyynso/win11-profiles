@@ -1,5 +1,5 @@
 #eyecandy
-oh-my-posh init pwsh --config 'C:home\Documents\PowerShell\takuyaGruv.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'C:$HOME\Documents\PowerShell\takuyaGruv.omp.json' | Invoke-Expression
 
 #username
 $env:USERNAME = "lol"
